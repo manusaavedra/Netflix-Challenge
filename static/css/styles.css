@@ -273,6 +273,10 @@ footer {
     z-index: 2;
 }
 
+.details-featured {
+    overflow: hidden;
+}
+
 .details-featured video {
     height: 400px;
 }
